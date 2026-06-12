@@ -1,16 +1,15 @@
-## Hi there 👋
+## Sapna here ✨  
 
-<!--
-**dream-286/dream-286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Previous Account - [[Sapna127](https://github.com/Sapna127)]
+( Lost due to 2fa issue )
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡I’m a Frontend Engineer who loves crafting clean, user-friendly interfaces.  
+ Currently, I spend my time contributing to open source and learning in public. 🔮 
+<br> </br>
+🪄 I enjoy experimenting with UI/UX design for fun :
+[ [Portfolio](https://kulsapna2210002.wixsite.com/sapna) ]
+
+🌱 sharing my learnings through blogs :
+[ [Medium](https://medium.com/@sapnakul) | [Hashnode](https://hashnode.com/@dream286) ] 
